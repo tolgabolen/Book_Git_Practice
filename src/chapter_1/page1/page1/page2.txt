@@ -1,6 +1,8 @@
 
 The Vanishing Glass
 
-page 2 o my book
+page 2 of my book
 
 some story here
+
+I edited page 2 after I commit it.
